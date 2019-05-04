@@ -1,5 +1,6 @@
-# Twitter Emotion Recognition
-Trained recurrent neural network (RNN) models for predicting emotions from English tweets.
+# Eliza Emotion Recognition
+Trained recurrent neural network (RNN) models for predicting emotions from English tweets.  These are then used to 
+analyze emotions in Eliza chatbot input
 Our models work on characters hence we pass the whole tweet without any preprocessing as an input to the RNN.
 We are predicting three emotion classifications:
 * Ekman's six basic emotions,
